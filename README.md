@@ -9,3 +9,5 @@ As a result, RE2 provides a folder containing putative repetitive DNA, including
 so if you align reads to concatenated satellite sequences (e.g., 5 monomers concatenated into one sequence), the coverage across the entire n-mer should be even. 
 - Assemble reads assigned to a cluster by RE2 and create a dot-plot using the most covered and the longest scaffolds 
 (`assemble_clusters.py`, `make_one_file` and `create_dotplots` scripts). 
+
+In the next versions, RIP would be automated.
